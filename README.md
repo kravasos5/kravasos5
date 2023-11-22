@@ -1,7 +1,5 @@
 ## Hello, I'm Vladyslav
 
----
-
 Student of national university of science and technology «MISIS».
 
 [My site](https://gnomesite.ru/)
