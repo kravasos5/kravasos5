@@ -6,7 +6,7 @@ Student of national university of science and technology «MISIS».
 
 #### Languages:
 
-![Static Badge](https://img.shields.io/badge/Python-%230969DA) ![Static Badge](https://img.shields.io/badge/JavaScript-%230969DA) ![Static Badge](https://img.shields.io/badge/HTML/CSS-%230969DA)
+![Static Badge](https://img.shields.io/badge/Python-%230969DA) ![Static Badge](https://img.shields.io/badge/JavaScript-%230969DA) ![Static Badge](https://img.shields.io/badge/Java-%230969DA) ![Static Badge](https://img.shields.io/badge/HTML/CSS-%230969DA)
 
 #### Tools:
 
