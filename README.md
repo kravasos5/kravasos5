@@ -1,6 +1,6 @@
 ## Hello, I'm Vladyslav
 
-Student of national university of science and technology «MISIS».
+A Java backend trainee and a student of national university of science and technology «MISIS».
 
 [My site](https://gnomesite.ru/)
 
